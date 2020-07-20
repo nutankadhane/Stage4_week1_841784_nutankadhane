@@ -5,3 +5,4 @@
   03-04-rest-handson
   Practice Check
   Final Check
+  practice handson
